@@ -14,6 +14,7 @@
 		B416C4122D3F6BB4000A1A78 /* WeatherApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B416C4102D3F6BB4000A1A78 /* WeatherApp.xcdatamodeld */; };
 		B416C4142D3F6BB5000A1A78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B416C4132D3F6BB5000A1A78 /* Assets.xcassets */; };
 		B416C4172D3F6BB5000A1A78 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B416C4162D3F6BB5000A1A78 /* Base */; };
+		B416C41F2D3F6D4D000A1A78 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B416C41E2D3F6D4D000A1A78 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B416C4132D3F6BB5000A1A78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B416C4162D3F6BB5000A1A78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B416C4182D3F6BB5000A1A78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B416C41E2D3F6D4D000A1A78 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B416C4072D3F6BB4000A1A78 /* AppDelegate.swift */,
 				B416C4092D3F6BB4000A1A78 /* SceneDelegate.swift */,
 				B416C40B2D3F6BB4000A1A78 /* ViewController.swift */,
+				B416C41E2D3F6D4D000A1A78 /* DetailsVC.swift */,
 				B416C40D2D3F6BB4000A1A78 /* Main.storyboard */,
 				B416C4132D3F6BB5000A1A78 /* Assets.xcassets */,
 				B416C4152D3F6BB5000A1A78 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				B416C40C2D3F6BB4000A1A78 /* ViewController.swift in Sources */,
 				B416C4082D3F6BB4000A1A78 /* AppDelegate.swift in Sources */,
 				B416C40A2D3F6BB4000A1A78 /* SceneDelegate.swift in Sources */,
+				B416C41F2D3F6D4D000A1A78 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
